@@ -1,6 +1,6 @@
 
-# Student name: <Your name here>
+# Student name: <Mohammad Rasid>
 
-## Student email: <Your student email here>
+## Student email: <mrashid3@collin.edu>
 
 ### "Getting ready to learn about containers"
